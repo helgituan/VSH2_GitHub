@@ -1,5 +1,5 @@
 
-# VSH2 GitHub verkefni 
+# VSH2 Sumar GitHub verkefni 
 
 ## verklýsing:
 
