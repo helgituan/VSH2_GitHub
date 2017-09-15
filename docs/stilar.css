@@ -3,7 +3,7 @@ body {
 }
 .vetur {
 	/*vetur stílar hér*/
-	background: linear-gradient(to bottom left,  blue, red); /* Standard syntax (must be last) */
+	background: linear-gradient(to bottom left,  black, red); /* Standard syntax (must be last) */
 	position: fixed;
 	width: 100%;
 	height: 100%;
